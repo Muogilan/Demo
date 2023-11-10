@@ -1,0 +1,30 @@
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\appsettings.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.staticwebassets.runtime.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.exe
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.deps.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.runtimeconfig.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.dll
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\bin\Debug\net6.0\Movie APP.pdb
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.AssemblyInfoInputs.cache
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.AssemblyInfo.cs
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.csproj.CoreCompileInputs.cache
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.RazorAssemblyInfo.cache
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.RazorAssemblyInfo.cs
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets\msbuild.Movie APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie APP.props
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie APP.props
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie APP.props
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\scopedcss\bundle\Movie APP.styles.css
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\scopedcss\projectbundle\Movie APP.bundle.scp.css
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.dll
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\refint\Movie APP.dll
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.pdb
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\Movie APP.genruntimeconfig.cache
+C:\Users\mugilan\source\repos\MovieStore\Movie APP\obj\Debug\net6.0\ref\Movie APP.dll
